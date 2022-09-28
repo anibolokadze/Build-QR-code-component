@@ -10,5 +10,14 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 The challenge is to make the given design as pixel-perfect as possible.
 
 The designs were created to the following widths:
+
 Mobile: 375px
 Desktop: 1440px
+
+## Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+## What I learned
