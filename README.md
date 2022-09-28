@@ -1,5 +1,6 @@
 ## Welcome! 👋
 This is solution to <a href='https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H'> Build QR code component on Frontend Mentor. </a>
+
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192867211-2d782e18-62be-44cc-bfa2-52028ce14b40.jpg)
@@ -7,7 +8,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ![mobile-design](https://user-images.githubusercontent.com/89190087/192867227-dfed2a79-527e-4603-845b-20b6079673c6.jpg)
 
 ## The challenge
-The challenge is to make the given design as pixel-perfect as possible.
+The challenge is to make the given design as pixel-perfect as possible by using HTML and CSS.
 
 The designs were created to the following widths:
 
