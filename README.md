@@ -11,8 +11,8 @@ The challenge is to make the given design as pixel-perfect as possible.
 
 The designs were created to the following widths:
 
-Mobile: 375px
-Desktop: 1440px
+- Mobile: 375px
+- Desktop: 1440px
 
 ## Built with
 - Semantic HTML5 markup
@@ -21,3 +21,4 @@ Desktop: 1440px
 - Mobile-first workflow
 
 ## What I learned
+Since this is the first project I have ever done, it was a bit difficult, but I learned how to use simple HTML with simple styling methods.🚀
