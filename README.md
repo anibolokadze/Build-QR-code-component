@@ -5,7 +5,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192867211-2d782e18-62be-44cc-bfa2-52028ce14b40.jpg)
 
-![mobile-design](https://user-images.githubusercontent.com/89190087/192867227-dfed2a79-527e-4603-845b-20b6079673c6.jpg)
 
 ## The challenge
 The challenge is to make the given design as pixel-perfect as possible by using HTML and CSS.
