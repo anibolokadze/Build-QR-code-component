@@ -3,6 +3,7 @@ This is solution to <a href='https://www.frontendmentor.io/challenges/qr-code-co
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+Live Site URL: https://anibolokadze.github.io/Build-QR-code-component/
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192867211-2d782e18-62be-44cc-bfa2-52028ce14b40.jpg)
 
 
